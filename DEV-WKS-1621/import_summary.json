@@ -1,0 +1,133 @@
+{
+    "total_devices": 5,
+    "success_count": 5,
+    "failure_count": 0,
+    "success_devices": [
+        {
+            "mac": "AAAAAA190101",
+            "response": {
+                "id": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL0NBTExJTkdfREVWSUNFL2FhYWFhYTE5LTAxMDEtNGUyYS1iNmVmLTUwZTI5Yzg0OGJhZg==",
+                "displayName": "None",
+                "personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS83Mzg3OWJjYS1kODc3LTRlYjktODQyMi01YTQ5MmQ5YTU1NjM",
+                "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi8zODU4Zjc5OC00ZTQ3LTRlMmEtYjZlZi01MGUyOWM4NDhiYWY",
+                "capabilities": [],
+                "permissions": [],
+                "product": "Cisco 8861",
+                "type": "phone",
+                "tags": [],
+                "mac": "AAAAAA190101",
+                "sipUrls": [
+                    null
+                ],
+                "errorCodes": [],
+                "connectionStatus": "unknown",
+                "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL1dPUktTUEFDRV9MT0NBVElPTi8zODU4Zjc5OC00ZTQ3LTRlMmEtYjZlZi01MGUyOWM4NDhiYWYjZDQwNmVkNGItMTkyZi00MjRhLTgwOTktNWI1Mjc0MjllNThm",
+                "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OL2Q0MDZlZDRiLTE5MmYtNDI0YS04MDk5LTViNTI3NDI5ZTU4Zg",
+                "managedBy": "CISCO",
+                "devicePlatform": "cisco",
+                "lifecycle": "UNKNOWN"
+            }
+        },
+        {
+            "mac": "AAAAAA190202",
+            "response": {
+                "id": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL0NBTExJTkdfREVWSUNFL2FhYWFhYTE5LTAyMDItNGUyYS1iNmVmLTUwZTI5Yzg0OGJhZg==",
+                "displayName": "None",
+                "personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9hNzA1MTdkMi1lNjcxLTQyZjctYmE0OS04MzIxZTMxMDFmOWY",
+                "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi8zODU4Zjc5OC00ZTQ3LTRlMmEtYjZlZi01MGUyOWM4NDhiYWY",
+                "capabilities": [],
+                "permissions": [],
+                "product": "Cisco 8861",
+                "type": "phone",
+                "tags": [],
+                "mac": "AAAAAA190202",
+                "sipUrls": [
+                    null
+                ],
+                "errorCodes": [],
+                "connectionStatus": "unknown",
+                "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL1dPUktTUEFDRV9MT0NBVElPTi8zODU4Zjc5OC00ZTQ3LTRlMmEtYjZlZi01MGUyOWM4NDhiYWYjZDQwNmVkNGItMTkyZi00MjRhLTgwOTktNWI1Mjc0MjllNThm",
+                "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OL2Q0MDZlZDRiLTE5MmYtNDI0YS04MDk5LTViNTI3NDI5ZTU4Zg",
+                "managedBy": "CISCO",
+                "devicePlatform": "cisco",
+                "lifecycle": "UNKNOWN"
+            }
+        },
+        {
+            "mac": "AAAAAA190303",
+            "response": {
+                "id": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL0NBTExJTkdfREVWSUNFL2FhYWFhYTE5LTAzMDMtNGUyYS1iNmVmLTUwZTI5Yzg0OGJhZg==",
+                "displayName": "None",
+                "personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS84MThkMTE3NC1kMDBiLTRmZjgtODQwZi03Zjg1MTY3NmQ0MjI",
+                "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi8zODU4Zjc5OC00ZTQ3LTRlMmEtYjZlZi01MGUyOWM4NDhiYWY",
+                "capabilities": [],
+                "permissions": [],
+                "product": "Cisco 8861",
+                "type": "phone",
+                "tags": [],
+                "mac": "AAAAAA190303",
+                "sipUrls": [
+                    null
+                ],
+                "errorCodes": [],
+                "connectionStatus": "unknown",
+                "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL1dPUktTUEFDRV9MT0NBVElPTi8zODU4Zjc5OC00ZTQ3LTRlMmEtYjZlZi01MGUyOWM4NDhiYWYjZDQwNmVkNGItMTkyZi00MjRhLTgwOTktNWI1Mjc0MjllNThm",
+                "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OL2Q0MDZlZDRiLTE5MmYtNDI0YS04MDk5LTViNTI3NDI5ZTU4Zg",
+                "managedBy": "CISCO",
+                "devicePlatform": "cisco",
+                "lifecycle": "UNKNOWN"
+            }
+        },
+        {
+            "mac": "AAAAAA190404",
+            "response": {
+                "id": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL0NBTExJTkdfREVWSUNFL2FhYWFhYTE5LTA0MDQtNGUyYS1iNmVmLTUwZTI5Yzg0OGJhZg==",
+                "displayName": "None",
+                "personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9lN2JlYWQ5Ni03ZDc1LTRiZDItOWE3Ni05YmZhZWIzM2I3MjY",
+                "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi8zODU4Zjc5OC00ZTQ3LTRlMmEtYjZlZi01MGUyOWM4NDhiYWY",
+                "capabilities": [],
+                "permissions": [],
+                "product": "Cisco 8861",
+                "type": "phone",
+                "tags": [],
+                "mac": "AAAAAA190404",
+                "sipUrls": [
+                    null
+                ],
+                "errorCodes": [],
+                "connectionStatus": "unknown",
+                "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL1dPUktTUEFDRV9MT0NBVElPTi8zODU4Zjc5OC00ZTQ3LTRlMmEtYjZlZi01MGUyOWM4NDhiYWYjZDQwNmVkNGItMTkyZi00MjRhLTgwOTktNWI1Mjc0MjllNThm",
+                "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OL2Q0MDZlZDRiLTE5MmYtNDI0YS04MDk5LTViNTI3NDI5ZTU4Zg",
+                "managedBy": "CISCO",
+                "devicePlatform": "cisco",
+                "lifecycle": "UNKNOWN"
+            }
+        },
+        {
+            "mac": "AAAAAA190505",
+            "response": {
+                "id": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL0NBTExJTkdfREVWSUNFL2FhYWFhYTE5LTA1MDUtNGUyYS1iNmVmLTUwZTI5Yzg0OGJhZg==",
+                "displayName": "None",
+                "personId": "Y2lzY29zcGFyazovL3VzL1BFT1BMRS9jMzdkZmNjOS02ZmEyLTQzNzYtOWE0NC1kYTQ4OGY0NDVmNjQ",
+                "orgId": "Y2lzY29zcGFyazovL3VzL09SR0FOSVpBVElPTi8zODU4Zjc5OC00ZTQ3LTRlMmEtYjZlZi01MGUyOWM4NDhiYWY",
+                "capabilities": [],
+                "permissions": [],
+                "product": "Cisco 8861",
+                "type": "phone",
+                "tags": [],
+                "mac": "AAAAAA190505",
+                "sipUrls": [
+                    null
+                ],
+                "errorCodes": [],
+                "connectionStatus": "unknown",
+                "workspaceLocationId": "Y2lzY29zcGFyazovL3VybjpURUFNOnVzLXdlc3QtMl9yL1dPUktTUEFDRV9MT0NBVElPTi8zODU4Zjc5OC00ZTQ3LTRlMmEtYjZlZi01MGUyOWM4NDhiYWYjZDQwNmVkNGItMTkyZi00MjRhLTgwOTktNWI1Mjc0MjllNThm",
+                "locationId": "Y2lzY29zcGFyazovL3VzL0xPQ0FUSU9OL2Q0MDZlZDRiLTE5MmYtNDI0YS04MDk5LTViNTI3NDI5ZTU4Zg",
+                "managedBy": "CISCO",
+                "devicePlatform": "cisco",
+                "lifecycle": "UNKNOWN"
+            }
+        }
+    ],
+    "failed_devices": []
+}

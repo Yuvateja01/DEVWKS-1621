@@ -1,0 +1,441 @@
+[
+    {
+        "pattern": "12061140878",
+        "description": "600 Broadway Suite 530",
+        "usage": "Device",
+        "routePartitionName": "Inactive-PT-WAFRSAP",
+        "aarNeighborhoodName": null,
+        "aarDestinationMask": null,
+        "aarKeepCallHistory": "true",
+        "aarVoiceMailEnabled": "false",
+        "callForwardAll": {
+            "forwardToVoiceMail": "false",
+            "callingSearchSpaceName": "WAFRSBB-LD-CSS",
+            "secondaryCallingSearchSpaceName": "WAFRSBB-LD-CSS",
+            "destination": null
+        },
+        "callForwardBusy": {
+            "forwardToVoiceMail": "true",
+            "callingSearchSpaceName": "WAFRSBB-LD-CSS",
+            "destination": null
+        },
+        "callForwardBusyInt": {
+            "forwardToVoiceMail": "true",
+            "callingSearchSpaceName": "WAFRSBB-LD-CSS",
+            "destination": null
+        },
+        "callForwardNoAnswer": {
+            "forwardToVoiceMail": "true",
+            "callingSearchSpaceName": "WAFRSBB-LD-CSS",
+            "destination": null,
+            "duration": 24
+        },
+        "callForwardNoAnswerInt": {
+            "forwardToVoiceMail": "true",
+            "callingSearchSpaceName": "WAFRSBB-LD-CSS",
+            "destination": null,
+            "duration": 24
+        },
+        "callForwardNoCoverage": {
+            "forwardToVoiceMail": "false",
+            "callingSearchSpaceName": "WAFRSBB-LD-CSS",
+            "destination": null
+        },
+        "callForwardNoCoverageInt": {
+            "forwardToVoiceMail": "false",
+            "callingSearchSpaceName": "WAFRSBB-LD-CSS",
+            "destination": null
+        },
+        "callForwardOnFailure": {
+            "forwardToVoiceMail": "false",
+            "callingSearchSpaceName": "WAFRSBB-LD-CSS",
+            "destination": null
+        },
+        "callForwardAlternateParty": {
+            "forwardToVoiceMail": null,
+            "callingSearchSpaceName": null,
+            "destination": null,
+            "duration": null
+        },
+        "callForwardNotRegistered": {
+            "forwardToVoiceMail": "true",
+            "callingSearchSpaceName": "WAFRSBB-LD-CSS",
+            "destination": null
+        },
+        "callForwardNotRegisteredInt": {
+            "forwardToVoiceMail": "true",
+            "callingSearchSpaceName": "WAFRSBB-LD-CSS",
+            "destination": null
+        },
+        "callPickupGroupName": null,
+        "autoAnswer": "Auto Answer Off",
+        "networkHoldMohAudioSourceId": null,
+        "userHoldMohAudioSourceId": null,
+        "callingIdPresentationWhenDiverted": "Default",
+        "alertingName": "Pain Svcs Exam RM",
+        "asciiAlertingName": "Pain Svcs Exam RM",
+        "presenceGroupName": "Standard Presence group",
+        "shareLineAppearanceCssName": "WAFRSBB-LD-CSS",
+        "voiceMailProfileName": null,
+        "patternPrecedence": "Default",
+        "releaseClause": "No Error",
+        "hrDuration": null,
+        "hrInterval": null,
+        "cfaCssPolicy": "With Activating Device/Line CSS",
+        "defaultActivatedDeviceName": null,
+        "parkMonForwardNoRetrieveDn": null,
+        "parkMonForwardNoRetrieveIntDn": null,
+        "parkMonForwardNoRetrieveVmEnabled": "false",
+        "parkMonForwardNoRetrieveIntVmEnabled": "false",
+        "parkMonForwardNoRetrieveCssName": null,
+        "parkMonForwardNoRetrieveIntCssName": null,
+        "parkMonReversionTimer": null,
+        "partyEntranceTone": "Default",
+        "directoryURIs": null,
+        "allowCtiControlFlag": "true",
+        "rejectAnonymousCall": "false",
+        "patternUrgency": "true",
+        "confidentialAccess": {
+            "confidentialAccessMode": null,
+            "confidentialAccessLevel": -1
+        },
+        "externalCallControlProfile": null,
+        "enterpriseAltNum": {
+            "numMask": null,
+            "isUrgent": "f",
+            "addLocalRoutePartition": "f",
+            "routePartition": null,
+            "advertiseGloballyIls": "f"
+        },
+        "e164AltNum": {
+            "numMask": null,
+            "isUrgent": "f",
+            "addLocalRoutePartition": "f",
+            "routePartition": null,
+            "advertiseGloballyIls": "f"
+        },
+        "pstnFailover": null,
+        "callControlAgentProfile": null,
+        "associatedDevices": {
+            "device": [
+                "SEP00082FB64FC4"
+            ]
+        },
+        "useEnterpriseAltNum": "false",
+        "useE164AltNum": "false",
+        "active": "true",
+        "externalPresentationInfo": {
+            "isAnonymous": "f",
+            "presentationInfo": null
+        }
+    },
+    {
+        "pattern": "121",
+        "description": "Test Phone",
+        "usage": "Device",
+        "routePartitionName": "PhoneDN-PT",
+        "aarNeighborhoodName": null,
+        "aarDestinationMask": null,
+        "aarKeepCallHistory": "true",
+        "aarVoiceMailEnabled": "false",
+        "callForwardAll": {
+            "forwardToVoiceMail": "false",
+            "callingSearchSpaceName": null,
+            "secondaryCallingSearchSpaceName": null,
+            "destination": null
+        },
+        "callForwardBusy": {
+            "forwardToVoiceMail": "false",
+            "callingSearchSpaceName": null,
+            "destination": null
+        },
+        "callForwardBusyInt": {
+            "forwardToVoiceMail": "false",
+            "callingSearchSpaceName": null,
+            "destination": null
+        },
+        "callForwardNoAnswer": {
+            "forwardToVoiceMail": "false",
+            "callingSearchSpaceName": null,
+            "destination": null,
+            "duration": null
+        },
+        "callForwardNoAnswerInt": {
+            "forwardToVoiceMail": "false",
+            "callingSearchSpaceName": null,
+            "destination": null,
+            "duration": null
+        },
+        "callForwardNoCoverage": {
+            "forwardToVoiceMail": "false",
+            "callingSearchSpaceName": null,
+            "destination": null
+        },
+        "callForwardNoCoverageInt": {
+            "forwardToVoiceMail": "false",
+            "callingSearchSpaceName": null,
+            "destination": null
+        },
+        "callForwardOnFailure": {
+            "forwardToVoiceMail": "false",
+            "callingSearchSpaceName": null,
+            "destination": null
+        },
+        "callForwardAlternateParty": {
+            "forwardToVoiceMail": null,
+            "callingSearchSpaceName": null,
+            "destination": null,
+            "duration": null
+        },
+        "callForwardNotRegistered": {
+            "forwardToVoiceMail": "false",
+            "callingSearchSpaceName": null,
+            "destination": null
+        },
+        "callForwardNotRegisteredInt": {
+            "forwardToVoiceMail": "false",
+            "callingSearchSpaceName": null,
+            "destination": null
+        },
+        "callPickupGroupName": null,
+        "autoAnswer": "Auto Answer Off",
+        "networkHoldMohAudioSourceId": null,
+        "userHoldMohAudioSourceId": null,
+        "callingIdPresentationWhenDiverted": "Default",
+        "alertingName": null,
+        "asciiAlertingName": null,
+        "presenceGroupName": "Standard Presence group",
+        "shareLineAppearanceCssName": "WAFACPZ-LD-CSS",
+        "voiceMailProfileName": null,
+        "patternPrecedence": "Default",
+        "releaseClause": "No Error",
+        "hrDuration": null,
+        "hrInterval": null,
+        "cfaCssPolicy": "Use System Default",
+        "defaultActivatedDeviceName": null,
+        "parkMonForwardNoRetrieveDn": null,
+        "parkMonForwardNoRetrieveIntDn": null,
+        "parkMonForwardNoRetrieveVmEnabled": "false",
+        "parkMonForwardNoRetrieveIntVmEnabled": "false",
+        "parkMonForwardNoRetrieveCssName": null,
+        "parkMonForwardNoRetrieveIntCssName": null,
+        "parkMonReversionTimer": null,
+        "partyEntranceTone": "Default",
+        "directoryURIs": null,
+        "allowCtiControlFlag": "true",
+        "rejectAnonymousCall": "false",
+        "patternUrgency": "true",
+        "confidentialAccess": {
+            "confidentialAccessMode": null,
+            "confidentialAccessLevel": -1
+        },
+        "externalCallControlProfile": null,
+        "enterpriseAltNum": {
+            "numMask": null,
+            "isUrgent": "f",
+            "addLocalRoutePartition": "f",
+            "routePartition": null,
+            "advertiseGloballyIls": "f"
+        },
+        "e164AltNum": {
+            "numMask": null,
+            "isUrgent": "f",
+            "addLocalRoutePartition": "f",
+            "routePartition": null,
+            "advertiseGloballyIls": "f"
+        },
+        "pstnFailover": null,
+        "callControlAgentProfile": null,
+        "associatedDevices": {
+            "device": [
+                "SEP00249B6BFEAB"
+            ]
+        },
+        "useEnterpriseAltNum": "false",
+        "useE164AltNum": "false",
+        "active": "true",
+        "externalPresentationInfo": {
+            "isAnonymous": "f",
+            "presentationInfo": null
+        }
+    },
+    {
+        "pattern": "12063862193",
+        "description": "600 Broadway Suite 530",
+        "usage": "Device",
+        "routePartitionName": "PhoneDN-PT",
+        "aarNeighborhoodName": null,
+        "aarDestinationMask": null,
+        "aarKeepCallHistory": "true",
+        "aarVoiceMailEnabled": "false",
+        "callForwardAll": {
+            "forwardToVoiceMail": "false",
+            "callingSearchSpaceName": "WAFRSBB-LD-CSS",
+            "secondaryCallingSearchSpaceName": "WAFRSBB-LD-CSS",
+            "destination": null
+        },
+        "callForwardBusy": {
+            "forwardToVoiceMail": "false",
+            "callingSearchSpaceName": "WAFRSBB-LD-CSS",
+            "destination": "12067263933"
+        },
+        "callForwardBusyInt": {
+            "forwardToVoiceMail": "false",
+            "callingSearchSpaceName": "WAFRSBB-LD-CSS",
+            "destination": "12067263933"
+        },
+        "callForwardNoAnswer": {
+            "forwardToVoiceMail": "false",
+            "callingSearchSpaceName": "WAFRSBB-LD-CSS",
+            "destination": "12067263933",
+            "duration": 24
+        },
+        "callForwardNoAnswerInt": {
+            "forwardToVoiceMail": "false",
+            "callingSearchSpaceName": "WAFRSBB-LD-CSS",
+            "destination": "12067263933",
+            "duration": 24
+        },
+        "callForwardNoCoverage": {
+            "forwardToVoiceMail": "false",
+            "callingSearchSpaceName": "WAFRSBB-LD-CSS",
+            "destination": null
+        },
+        "callForwardNoCoverageInt": {
+            "forwardToVoiceMail": "false",
+            "callingSearchSpaceName": "WAFRSBB-LD-CSS",
+            "destination": null
+        },
+        "callForwardOnFailure": {
+            "forwardToVoiceMail": "false",
+            "callingSearchSpaceName": "WAFRSBB-LD-CSS",
+            "destination": null
+        },
+        "callForwardAlternateParty": {
+            "forwardToVoiceMail": null,
+            "callingSearchSpaceName": null,
+            "destination": null,
+            "duration": null
+        },
+        "callForwardNotRegistered": {
+            "forwardToVoiceMail": "false",
+            "callingSearchSpaceName": "WAFRSBB-LD-CSS",
+            "destination": "12067263933"
+        },
+        "callForwardNotRegisteredInt": {
+            "forwardToVoiceMail": "false",
+            "callingSearchSpaceName": "WAFRSBB-LD-CSS",
+            "destination": "12067263933"
+        },
+        "callPickupGroupName": null,
+        "autoAnswer": "Auto Answer Off",
+        "networkHoldMohAudioSourceId": null,
+        "userHoldMohAudioSourceId": null,
+        "callingIdPresentationWhenDiverted": "Default",
+        "alertingName": "Pain Services Backline",
+        "asciiAlertingName": "Pain Services Backline",
+        "presenceGroupName": "Standard Presence group",
+        "shareLineAppearanceCssName": "WAFRSBB-LD-CSS",
+        "voiceMailProfileName": null,
+        "patternPrecedence": "Default",
+        "releaseClause": "No Error",
+        "hrDuration": null,
+        "hrInterval": null,
+        "cfaCssPolicy": "With Activating Device/Line CSS",
+        "defaultActivatedDeviceName": null,
+        "parkMonForwardNoRetrieveDn": null,
+        "parkMonForwardNoRetrieveIntDn": null,
+        "parkMonForwardNoRetrieveVmEnabled": "false",
+        "parkMonForwardNoRetrieveIntVmEnabled": "false",
+        "parkMonForwardNoRetrieveCssName": null,
+        "parkMonForwardNoRetrieveIntCssName": null,
+        "parkMonReversionTimer": null,
+        "partyEntranceTone": "Default",
+        "directoryURIs": null,
+        "allowCtiControlFlag": "true",
+        "rejectAnonymousCall": "false",
+        "patternUrgency": "true",
+        "confidentialAccess": {
+            "confidentialAccessMode": null,
+            "confidentialAccessLevel": -1
+        },
+        "externalCallControlProfile": null,
+        "enterpriseAltNum": {
+            "numMask": null,
+            "isUrgent": "f",
+            "addLocalRoutePartition": "f",
+            "routePartition": null,
+            "advertiseGloballyIls": "f"
+        },
+        "e164AltNum": {
+            "numMask": "+12063862193",
+            "isUrgent": "true",
+            "addLocalRoutePartition": "true",
+            "routePartition": "E164-GDPR-Learned-DN-PT",
+            "advertiseGloballyIls": "true"
+        },
+        "pstnFailover": null,
+        "callControlAgentProfile": null,
+        "associatedDevices": {
+            "device": [
+                "SEP74AD98E7818A",
+                "SEP74AD98E76E91",
+                "SEP74AD98E77EFF",
+                "SEP74AD98E785E0",
+                "SEP00082FB65352",
+                "SEP6887C6DBC31F",
+                "SEP74AD98E79A0E",
+                "SEPD0E04292637C",
+                "SEPD0E042928689",
+                "SEP74AD98E76FEA",
+                "SEP74AD98E76EFD",
+                "SEP74AD98E76E8E",
+                "SEP74AD98E76BCD",
+                "SEP74AD98E76BD6",
+                "SEPA47806140A73",
+                "SEP74AD98E76DC8",
+                "SEP74AD98E76804",
+                "SEP74AD98E7680A",
+                "SEP74AD98E76633",
+                "SEP74AD98E76639",
+                "SEP74AD98E76D3E",
+                "SEP74AD98E769CC",
+                "SEP74AD98E76D2F",
+                "SEP74AD98E75FCA",
+                "SEP74AD98E76D5C",
+                "SEP74AD98E765A0",
+                "SEP00082FB65635",
+                "SEP00082FB6543E",
+                "SEP00082FB6D92C",
+                "SEP00082FB6566D",
+                "SEP34DBFDCD4A86",
+                "SEP74AD98E78F58",
+                "SEP74AD98E76F3F",
+                "SEP74AD98E77E8A",
+                "SEP74AD98E781AB",
+                "SEP74AD98E77E7E",
+                "SEP74AD98E77F35",
+                "SEP74AD98E770AA",
+                "SEP74AD98E77EC9",
+                "SEP74AD98E77656",
+                "SEP00082FB6DD15",
+                "SEP00082FB65512",
+                "SEP00082FB64FC4",
+                "SEP00082FB65268",
+                "SEP00082FB65697",
+                "SEP00082FB6564C",
+                "SEP00082FB65425",
+                "SEP00082FB65679",
+                "SEP00082FB65650",
+                "SEP00082FB656F2"
+            ]
+        },
+        "useEnterpriseAltNum": "false",
+        "useE164AltNum": "true",
+        "active": "true",
+        "externalPresentationInfo": {
+            "isAnonymous": "f",
+            "presentationInfo": null
+        }
+    }
+]

@@ -1,0 +1,697 @@
+[
+    {
+        "firstName": null,
+        "displayName": null,
+        "middleName": null,
+        "lastName": "anayms1",
+        "emMaxLoginTime": null,
+        "userid": "anayms1",
+        "password": null,
+        "pin": null,
+        "mailid": null,
+        "department": null,
+        "manager": null,
+        "userLocale": null,
+        "associatedDevices": null,
+        "primaryExtension": null,
+        "associatedPc": null,
+        "associatedGroups": {
+            "userGroup": [
+                {
+                    "name": "Standard CCM End Users",
+                    "userRoles": {
+                        "userRole": [
+                            "Standard CCM End Users",
+                            "Standard CCMUSER Administration"
+                        ]
+                    }
+                }
+            ]
+        },
+        "enableCti": "true",
+        "digestCredentials": null,
+        "phoneProfiles": null,
+        "defaultProfile": null,
+        "presenceGroupName": "Standard Presence group",
+        "subscribeCallingSearchSpaceName": null,
+        "enableMobility": "false",
+        "enableMobileVoiceAccess": "false",
+        "maxDeskPickupWaitTime": 10000,
+        "remoteDestinationLimit": 4,
+        "associatedRemoteDestinationProfiles": null,
+        "passwordCredentials": {
+            "pwdCredPolicyName": "Default Credential Policy",
+            "pwdCredUserCantChange": "false",
+            "pwdCredUserMustChange": "false",
+            "pwdCredDoesNotExpire": "false",
+            "pwdCredTimeChanged": "March 03, 2023 07:07:39 PST",
+            "pwdCredTimeAdminLockout": null,
+            "pwdCredLockedByAdministrator": "false",
+            "pwdResetHackCount": null
+        },
+        "pinCredentials": {
+            "pinCredPolicyName": "Default Credential Policy",
+            "pinCredUserCantChange": "false",
+            "pinCredUserMustChange": "true",
+            "pinCredDoesNotExpire": "false",
+            "pinCredTimeChanged": "March 03, 2023 07:07:39 PST",
+            "pinCredTimeAdminLockout": null,
+            "pinCredLockedByAdministrator": "false",
+            "pinResetHackCount": null
+        },
+        "associatedTodAccess": null,
+        "status": 1,
+        "enableEmcc": "false",
+        "associatedCapfProfiles": null,
+        "ctiControlledDeviceProfiles": null,
+        "patternPrecedence": null,
+        "numericUserId": null,
+        "mlppPassword": null,
+        "customUserFields": null,
+        "homeCluster": "true",
+        "imAndPresenceEnable": "false",
+        "serviceProfile": "Phone Only",
+        "lineAppearanceAssociationForPresences": null,
+        "directoryUri": null,
+        "telephoneNumber": null,
+        "title": null,
+        "mobileNumber": null,
+        "homeNumber": null,
+        "pagerNumber": null,
+        "extensionsInfo": null,
+        "selfService": null,
+        "userProfile": null,
+        "calendarPresence": "false",
+        "ldapDirectoryName": null,
+        "userIdentity": null,
+        "nameDialing": "anayms1",
+        "ipccExtension": null,
+        "ipccRoutePartition": null,
+        "convertUserAccount": null,
+        "enableUserToHostConferenceNow": "false",
+        "attendeesAccessCode": null,
+        "zeroHop": null,
+        "customerName": null,
+        "associatedHeadsets": null
+    },
+    {
+        "firstName": null,
+        "displayName": null,
+        "middleName": null,
+        "lastName": "ad",
+        "emMaxLoginTime": null,
+        "userid": "ad",
+        "password": null,
+        "pin": null,
+        "mailid": null,
+        "department": null,
+        "manager": null,
+        "userLocale": null,
+        "associatedDevices": {
+            "device": [
+                "SEP00082FB64FC4",
+                "SEP00082FB65268",
+                "SEP7001B5776FFB"
+            ]
+        },
+        "primaryExtension": null,
+        "associatedPc": null,
+        "associatedGroups": {
+            "userGroup": [
+                {
+                    "name": "Standard CCM Super Users",
+                    "userRoles": {
+                        "userRole": [
+                            "Standard CCMADMIN Administration",
+                            "Standard SERVICEABILITY Administration",
+                            "Standard CCM Admin Users",
+                            "Standard Admin Rep Tool Admin",
+                            "Standard AXL API Access",
+                            "Standard SSO Config Admin",
+                            "Standard EM Authentication Proxy Rights",
+                            "Standard CUReporting",
+                            "Standard CUReporting Authentication"
+                        ]
+                    }
+                },
+                {
+                    "name": "AXL Read Only",
+                    "userRoles": {
+                        "userRole": [
+                            "Standard AXL Read Only API Access",
+                            "Standard AXL API Users"
+                        ]
+                    }
+                },
+                {
+                    "name": "AXL Read and Write",
+                    "userRoles": {
+                        "userRole": [
+                            "Standard AXL API Access",
+                            "Standard AXL API Users"
+                        ]
+                    }
+                },
+                {
+                    "name": "Admin-3rd Party API",
+                    "userRoles": null
+                },
+                {
+                    "name": "Application Client Users",
+                    "userRoles": null
+                },
+                {
+                    "name": "Customer CCM Admin Users",
+                    "userRoles": {
+                        "userRole": [
+                            "Standard CCM Admin Users",
+                            "Standard SERVICEABILITY Read Only",
+                            "Standard CTI Allow Control of Phones supporting Rollover Mode",
+                            "Customer AXL API Access",
+                            "Standard CCMUSER Administration",
+                            "Customer CCMADMIN",
+                            "Standard CCM End Users",
+                            "Standard CTI Allow Control of Phones supporting Connected Xfer and conf",
+                            "Standard CUReporting",
+                            "Standard CTI Enabled"
+                        ]
+                    }
+                },
+                {
+                    "name": "Customer CCM End Users",
+                    "userRoles": {
+                        "userRole": [
+                            "Standard CCM Admin Users",
+                            "Standard CCM End Users"
+                        ]
+                    }
+                },
+                {
+                    "name": "Customer CCM Read Only",
+                    "userRoles": {
+                        "userRole": [
+                            "Standard CCM Admin Users",
+                            "Standard SERVICEABILITY Read Only",
+                            "Standard CCMADMIN Read Only",
+                            "Standard CUReporting"
+                        ]
+                    }
+                },
+                {
+                    "name": "Partner CCM Admin Users",
+                    "userRoles": {
+                        "userRole": [
+                            "Standard SERVICEABILITY Administration",
+                            "Standard CUReporting Authentication",
+                            "Standard Audit Log Administration",
+                            "Standard CCM Admin Users",
+                            "Standard CTI Allow Control of Phones supporting Rollover Mode",
+                            "Partner AXL API Access",
+                            "Standard CCMUSER Administration",
+                            "Partner CCMADMIN",
+                            "Standard AXL API Users",
+                            "Partner RealtimeAndTraceCollection",
+                            "Standard CCM End Users",
+                            "Standard CTI Allow Control of Phones supporting Connected Xfer and conf",
+                            "Standard CUReporting",
+                            "Standard CTI Enabled"
+                        ]
+                    }
+                },
+                {
+                    "name": "Partner CCM Read Only",
+                    "userRoles": {
+                        "userRole": [
+                            "Standard CCM Admin Users",
+                            "Standard SERVICEABILITY Read Only",
+                            "Standard CCMADMIN Read Only",
+                            "Standard CUReporting"
+                        ]
+                    }
+                },
+                {
+                    "name": "Standard Audit Users",
+                    "userRoles": {
+                        "userRole": [
+                            "Standard Audit Log Administration"
+                        ]
+                    }
+                },
+                {
+                    "name": "Standard CAR Admin Users",
+                    "userRoles": {
+                        "userRole": [
+                            "Standard Admin Rep Tool Admin"
+                        ]
+                    }
+                },
+                {
+                    "name": "Standard CCM Admin Users",
+                    "userRoles": {
+                        "userRole": [
+                            "Standard CCM Admin Users",
+                            "Standard CUReporting",
+                            "Standard CUReporting Authentication"
+                        ]
+                    }
+                },
+                {
+                    "name": "Standard CCM End Users",
+                    "userRoles": {
+                        "userRole": [
+                            "Standard CCM End Users",
+                            "Standard CCMUSER Administration"
+                        ]
+                    }
+                },
+                {
+                    "name": "Standard CCM Gateway Administration",
+                    "userRoles": {
+                        "userRole": [
+                            "Standard CCMADMIN Read Only",
+                            "Standard CCM Gateway Management",
+                            "Standard CCM Admin Users"
+                        ]
+                    }
+                },
+                {
+                    "name": "Standard CCM Phone Administration",
+                    "userRoles": {
+                        "userRole": [
+                            "Standard CCMADMIN Read Only",
+                            "Standard CCM Phone Management",
+                            "Standard CCM Admin Users"
+                        ]
+                    }
+                },
+                {
+                    "name": "Standard CCM Read Only",
+                    "userRoles": {
+                        "userRole": [
+                            "Standard CCMADMIN Read Only",
+                            "Standard CCM Admin Users",
+                            "Standard SERVICEABILITY Read Only"
+                        ]
+                    }
+                },
+                {
+                    "name": "Standard CCM Server Maintenance",
+                    "userRoles": {
+                        "userRole": [
+                            "Standard CCMADMIN Read Only",
+                            "Standard CCM System Management",
+                            "Standard CCM Feature Management",
+                            "Standard CCM Service Management",
+                            "Standard System Service Management",
+                            "Standard CCM Admin Users"
+                        ]
+                    }
+                },
+                {
+                    "name": "Standard CCM Server Monitoring",
+                    "userRoles": {
+                        "userRole": [
+                            "Standard CCMADMIN Read Only",
+                            "Standard SERVICEABILITY",
+                            "Standard CCM Admin Users"
+                        ]
+                    }
+                },
+                {
+                    "name": "Standard CTI Allow Call Monitoring",
+                    "userRoles": {
+                        "userRole": [
+                            "Standard CTI Allow Call Monitoring"
+                        ]
+                    }
+                },
+                {
+                    "name": "Standard CTI Allow Call Park Monitoring",
+                    "userRoles": {
+                        "userRole": [
+                            "Standard CTI Allow Call Park Monitoring"
+                        ]
+                    }
+                },
+                {
+                    "name": "Standard CTI Allow Call Recording",
+                    "userRoles": {
+                        "userRole": [
+                            "Standard CTI Allow Call Recording"
+                        ]
+                    }
+                },
+                {
+                    "name": "Standard CTI Allow Calling Number Modification",
+                    "userRoles": {
+                        "userRole": [
+                            "Standard CTI Allow Calling Number Modification"
+                        ]
+                    }
+                },
+                {
+                    "name": "Standard CTI Allow Control of All Devices",
+                    "userRoles": {
+                        "userRole": [
+                            "Standard CTI Allow Control of All Devices"
+                        ]
+                    }
+                },
+                {
+                    "name": "Standard CTI Allow Control of Phones supporting Connected Xfer and conf",
+                    "userRoles": {
+                        "userRole": [
+                            "Standard CTI Allow Control of Phones supporting Connected Xfer and conf"
+                        ]
+                    }
+                },
+                {
+                    "name": "Standard CTI Allow Control of Phones supporting Rollover Mode",
+                    "userRoles": {
+                        "userRole": [
+                            "Standard CTI Allow Control of Phones supporting Rollover Mode"
+                        ]
+                    }
+                },
+                {
+                    "name": "Standard CTI Allow Reception of SRTP Key Material",
+                    "userRoles": {
+                        "userRole": [
+                            "Standard CTI Allow Reception of SRTP Key Material"
+                        ]
+                    }
+                },
+                {
+                    "name": "Standard CTI Enabled",
+                    "userRoles": {
+                        "userRole": [
+                            "Standard CTI Enabled"
+                        ]
+                    }
+                },
+                {
+                    "name": "Standard CTI Secure Connection",
+                    "userRoles": {
+                        "userRole": [
+                            "Standard CTI Secure Connection"
+                        ]
+                    }
+                },
+                {
+                    "name": "Standard Confidential Access Level Users",
+                    "userRoles": {
+                        "userRole": [
+                            "Standard Confidential Access Level Users",
+                            "Standard CCM Admin Users"
+                        ]
+                    }
+                },
+                {
+                    "name": "Standard EM Authentication Proxy Rights",
+                    "userRoles": {
+                        "userRole": [
+                            "Standard EM Authentication Proxy Rights"
+                        ]
+                    }
+                },
+                {
+                    "name": "Standard EM Roaming Across Clusters Super Users",
+                    "userRoles": {
+                        "userRole": [
+                            "Standard CCM End Users",
+                            "Standard CCMUSER Administration"
+                        ]
+                    }
+                },
+                {
+                    "name": "Standard Packet Sniffer Users",
+                    "userRoles": {
+                        "userRole": [
+                            "Standard Packet Sniffing",
+                            "Standard CCM Admin Users"
+                        ]
+                    }
+                },
+                {
+                    "name": "Standard RealtimeAndTraceCollection",
+                    "userRoles": {
+                        "userRole": [
+                            "Standard RealtimeAndTraceCollection"
+                        ]
+                    }
+                },
+                {
+                    "name": "Standard TabSync User",
+                    "userRoles": {
+                        "userRole": [
+                            "Standard AXL API Access"
+                        ]
+                    }
+                },
+                {
+                    "name": "Third Party Application Users",
+                    "userRoles": null
+                }
+            ]
+        },
+        "enableCti": "true",
+        "digestCredentials": null,
+        "phoneProfiles": {
+            "profileName": [
+                {
+                    "_value_1": "satp em testing login"
+                }
+            ]
+        },
+        "defaultProfile": "satp em testing login",
+        "presenceGroupName": "Standard Presence group",
+        "subscribeCallingSearchSpaceName": null,
+        "enableMobility": "false",
+        "enableMobileVoiceAccess": "false",
+        "maxDeskPickupWaitTime": 10000,
+        "remoteDestinationLimit": 4,
+        "associatedRemoteDestinationProfiles": null,
+        "passwordCredentials": {
+            "pwdCredPolicyName": "Default Credential Policy",
+            "pwdCredUserCantChange": "false",
+            "pwdCredUserMustChange": "false",
+            "pwdCredDoesNotExpire": "false",
+            "pwdCredTimeChanged": "November 21, 2022 04:01:16 PST",
+            "pwdCredTimeAdminLockout": null,
+            "pwdCredLockedByAdministrator": "false",
+            "pwdResetHackCount": null
+        },
+        "pinCredentials": {
+            "pinCredPolicyName": "Default Credential Policy",
+            "pinCredUserCantChange": "false",
+            "pinCredUserMustChange": "false",
+            "pinCredDoesNotExpire": "false",
+            "pinCredTimeChanged": "November 21, 2022 04:01:16 PST",
+            "pinCredTimeAdminLockout": null,
+            "pinCredLockedByAdministrator": "false",
+            "pinResetHackCount": null
+        },
+        "associatedTodAccess": null,
+        "status": 1,
+        "enableEmcc": "false",
+        "associatedCapfProfiles": null,
+        "ctiControlledDeviceProfiles": null,
+        "patternPrecedence": null,
+        "numericUserId": null,
+        "mlppPassword": null,
+        "customUserFields": null,
+        "homeCluster": "true",
+        "imAndPresenceEnable": "false",
+        "serviceProfile": "Phone Only",
+        "lineAppearanceAssociationForPresences": {
+            "lineAppearanceAssociationForPresence": [
+                {
+                    "laapAssociate": "f",
+                    "laapProductType": "Cisco 7962",
+                    "laapDeviceName": "SEP00082FB64FC4",
+                    "laapDirectory": "12061140878",
+                    "laapPartition": "Inactive-PT-WAFRSAP",
+                    "laapDescription": "Pain Svcs Exam RM 16"
+                },
+                {
+                    "laapAssociate": "f",
+                    "laapProductType": "Cisco 7962",
+                    "laapDeviceName": "SEP00082FB64FC4",
+                    "laapDirectory": "12063862193",
+                    "laapPartition": "PhoneDN-PT",
+                    "laapDescription": "Pain Svcs Exam RM 16"
+                },
+                {
+                    "laapAssociate": "f",
+                    "laapProductType": "Cisco 7962",
+                    "laapDeviceName": "SEP00082FB65268",
+                    "laapDirectory": "12061140877",
+                    "laapPartition": "PhoneDN-PT",
+                    "laapDescription": "Pain Svcs Exam RM 16 "
+                },
+                {
+                    "laapAssociate": "f",
+                    "laapProductType": "Cisco 7962",
+                    "laapDeviceName": "SEP00082FB65268",
+                    "laapDirectory": "12063862193",
+                    "laapPartition": "PhoneDN-PT",
+                    "laapDescription": "Pain Svcs Exam RM 16 "
+                },
+                {
+                    "laapAssociate": "f",
+                    "laapProductType": "Cisco IP Communicator",
+                    "laapDeviceName": "satp em testing login",
+                    "laapDirectory": "565656",
+                    "laapPartition": null,
+                    "laapDescription": null
+                },
+                {
+                    "laapAssociate": "f",
+                    "laapProductType": "Cisco 8865",
+                    "laapDeviceName": "SEP7001B5776FFB",
+                    "laapDirectory": "1234567899",
+                    "laapPartition": null,
+                    "laapDescription": "TFTP-Change-Test-Phone"
+                }
+            ]
+        },
+        "directoryUri": null,
+        "telephoneNumber": "7657575575",
+        "title": null,
+        "mobileNumber": "12346567777",
+        "homeNumber": "765757575",
+        "pagerNumber": "1223344",
+        "extensionsInfo": null,
+        "selfService": null,
+        "userProfile": null,
+        "calendarPresence": "false",
+        "ldapDirectoryName": null,
+        "userIdentity": null,
+        "nameDialing": null,
+        "ipccExtension": null,
+        "ipccRoutePartition": null,
+        "convertUserAccount": null,
+        "enableUserToHostConferenceNow": "false",
+        "attendeesAccessCode": null,
+        "zeroHop": null,
+        "customerName": null,
+        "associatedHeadsets": {
+            "headset": [
+                "GTK221511FT"
+            ]
+        }
+    },
+    {
+        "firstName": null,
+        "displayName": null,
+        "middleName": null,
+        "lastName": "K",
+        "emMaxLoginTime": null,
+        "userid": "nkondapa",
+        "password": null,
+        "pin": null,
+        "mailid": null,
+        "department": null,
+        "manager": null,
+        "userLocale": null,
+        "associatedDevices": null,
+        "primaryExtension": null,
+        "associatedPc": null,
+        "associatedGroups": {
+            "userGroup": [
+                {
+                    "name": "Standard CCM Admin Users",
+                    "userRoles": {
+                        "userRole": [
+                            "Standard CCM Admin Users",
+                            "Standard CUReporting",
+                            "Standard CUReporting Authentication"
+                        ]
+                    }
+                },
+                {
+                    "name": "Standard CCM End Users",
+                    "userRoles": {
+                        "userRole": [
+                            "Standard CCM End Users",
+                            "Standard CCMUSER Administration"
+                        ]
+                    }
+                },
+                {
+                    "name": "Standard CTI Enabled",
+                    "userRoles": {
+                        "userRole": [
+                            "Standard CTI Enabled"
+                        ]
+                    }
+                }
+            ]
+        },
+        "enableCti": "true",
+        "digestCredentials": null,
+        "phoneProfiles": null,
+        "defaultProfile": null,
+        "presenceGroupName": "Standard Presence group",
+        "subscribeCallingSearchSpaceName": null,
+        "enableMobility": "false",
+        "enableMobileVoiceAccess": "false",
+        "maxDeskPickupWaitTime": 10000,
+        "remoteDestinationLimit": 4,
+        "associatedRemoteDestinationProfiles": null,
+        "passwordCredentials": {
+            "pwdCredPolicyName": "Default Credential Policy",
+            "pwdCredUserCantChange": "false",
+            "pwdCredUserMustChange": "false",
+            "pwdCredDoesNotExpire": "false",
+            "pwdCredTimeChanged": "December 10, 2021 12:12:33 PST",
+            "pwdCredTimeAdminLockout": null,
+            "pwdCredLockedByAdministrator": "false",
+            "pwdResetHackCount": null
+        },
+        "pinCredentials": {
+            "pinCredPolicyName": "Default Credential Policy",
+            "pinCredUserCantChange": "false",
+            "pinCredUserMustChange": "true",
+            "pinCredDoesNotExpire": "false",
+            "pinCredTimeChanged": "December 10, 2021 12:12:32 PST",
+            "pinCredTimeAdminLockout": null,
+            "pinCredLockedByAdministrator": "false",
+            "pinResetHackCount": null
+        },
+        "associatedTodAccess": null,
+        "status": 1,
+        "enableEmcc": "false",
+        "associatedCapfProfiles": null,
+        "ctiControlledDeviceProfiles": null,
+        "patternPrecedence": null,
+        "numericUserId": null,
+        "mlppPassword": null,
+        "customUserFields": null,
+        "homeCluster": "true",
+        "imAndPresenceEnable": "false",
+        "serviceProfile": "Phone Only",
+        "lineAppearanceAssociationForPresences": null,
+        "directoryUri": null,
+        "telephoneNumber": null,
+        "title": null,
+        "mobileNumber": null,
+        "homeNumber": null,
+        "pagerNumber": null,
+        "extensionsInfo": null,
+        "selfService": null,
+        "userProfile": null,
+        "calendarPresence": "false",
+        "ldapDirectoryName": null,
+        "userIdentity": null,
+        "nameDialing": null,
+        "ipccExtension": null,
+        "ipccRoutePartition": null,
+        "convertUserAccount": null,
+        "enableUserToHostConferenceNow": "false",
+        "attendeesAccessCode": null,
+        "zeroHop": null,
+        "customerName": null,
+        "associatedHeadsets": null
+    }
+]

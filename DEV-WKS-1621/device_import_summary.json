@@ -1,0 +1,68 @@
+{
+    "total_devices": 5,
+    "success_count": 0,
+    "failure_count": 5,
+    "success_devices": [],
+    "failed_devices": [
+        {
+            "mac": "AAAAAA190101",
+            "response": {
+                "message": "Phones cannot be added to this user",
+                "errors": [
+                    {
+                        "description": "Phones cannot be added to this user"
+                    }
+                ],
+                "trackingId": "ROUTERGW_2e3232ed-378f-47f0-a749-46db777faa3a"
+            }
+        },
+        {
+            "mac": "AAAAAA190202",
+            "response": {
+                "message": "Phones cannot be added to this user",
+                "errors": [
+                    {
+                        "description": "Phones cannot be added to this user"
+                    }
+                ],
+                "trackingId": "ROUTERGW_2c83b4c0-51ff-4b7a-b42b-59601e992e89"
+            }
+        },
+        {
+            "mac": "AAAAAA190303",
+            "response": {
+                "message": "Unable to reach upstream service.",
+                "errors": [
+                    {
+                        "description": "Unable to reach upstream service."
+                    }
+                ],
+                "trackingId": "ROUTERGW_494c48b5-f87f-4c3c-9133-0a1247762cc5"
+            }
+        },
+        {
+            "mac": "AAAAAA190404",
+            "response": {
+                "message": "Phones cannot be added to this user",
+                "errors": [
+                    {
+                        "description": "Phones cannot be added to this user"
+                    }
+                ],
+                "trackingId": "ROUTERGW_8fd765d1-a49e-48bb-b269-c554e50d7e82"
+            }
+        },
+        {
+            "mac": "AAAAAA190505",
+            "response": {
+                "message": "Phones cannot be added to this user",
+                "errors": [
+                    {
+                        "description": "Phones cannot be added to this user"
+                    }
+                ],
+                "trackingId": "ROUTERGW_851db1f3-c474-4353-8de2-d21e8fc84a55"
+            }
+        }
+    ]
+}
